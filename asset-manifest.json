@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Raghavendralc/Movie-App/static/css/main.3a78434d.css",
+    "main.js": "/Raghavendralc/Movie-App/static/js/main.325065cd.js",
+    "index.html": "/Raghavendralc/Movie-App/index.html",
+    "main.3a78434d.css.map": "/Raghavendralc/Movie-App/static/css/main.3a78434d.css.map",
+    "main.325065cd.js.map": "/Raghavendralc/Movie-App/static/js/main.325065cd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a78434d.css",
+    "static/js/main.325065cd.js"
+  ]
+}
